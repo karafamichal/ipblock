@@ -1,0 +1,5 @@
+# blocking  these IPs
+# testing elements only!
+# there are non problem IPs, just for testing enviroment!
+
+34.32.68.134
